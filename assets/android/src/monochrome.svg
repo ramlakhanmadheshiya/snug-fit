@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <g transform="translate(512 520) scale(0.6) translate(-512 -512)">
+    <rect x="220.0" y="220.0" width="184" height="184" rx="46" fill="#FFFFFF"/>
+    <rect x="358.0" y="220.0" width="108" height="184" fill="#FFFFFF"/>
+    <rect x="220.0" y="358.0" width="184" height="108" fill="#FFFFFF"/>
+    <rect x="420.0" y="220.0" width="184" height="184" rx="46" fill="#FFFFFF"/>
+    <rect x="220.0" y="420.0" width="184" height="184" rx="46" fill="#FFFFFF"/>
+    <rect x="620.0" y="220.0" width="184" height="184" rx="46" fill="#FFFFFF"/>
+    <rect x="620.0" y="358.0" width="184" height="108" fill="#FFFFFF"/>
+    <rect x="620.0" y="420.0" width="184" height="184" rx="46" fill="#FFFFFF"/>
+    <rect x="620.0" y="558.0" width="184" height="108" fill="#FFFFFF"/>
+    <rect x="620.0" y="620.0" width="184" height="184" rx="46" fill="#FFFFFF"/>
+    <rect x="420.0" y="420.0" width="184" height="184" rx="46" fill="#FFFFFF"/>
+    <rect x="420.0" y="558.0" width="184" height="108" fill="#FFFFFF"/>
+    <rect x="220.0" y="620.0" width="184" height="184" rx="46" fill="#FFFFFF"/>
+    <rect x="358.0" y="620.0" width="108" height="184" fill="#FFFFFF"/>
+    <rect x="420.0" y="620.0" width="184" height="184" rx="46" fill="#FFFFFF"/>
+  </g>
+</svg>
